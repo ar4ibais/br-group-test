@@ -1,3 +1,9 @@
+# Тестовое задание BR Group для соискателей на должность Middle Frontend React
+Инструкция для запуска приложения: 
+- склонировать этот репозиторий себе на компьютер
+- запустить команду npm install (yarn, если установлен yarn)
+- запустить команду npm run dev (yarn dev)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
